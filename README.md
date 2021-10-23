@@ -6,6 +6,8 @@ The data was unbalanced; to balance out the data, SMOTE function from **imbalanc
 
 ## Training the Model
 
-    Training with the untouched data didn't generated good results. 
-    ![Model](./img/init_model.PNG)
-    ![Training result](./img/init_result.PNG)
+    Training with the original data didn't generate good results. 
+    ![Model](https://github.com/bktakgun/spiky-task/blob/main/img/init_model.PNG)
+    ![Training result](https://github.com/bktakgun/spiky-task/blob/main/img/init_result.PNG)
+
+    For better results data generated from SMOTE function and for optimization **keras-tuner** module was used.
