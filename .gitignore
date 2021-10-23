@@ -2,3 +2,8 @@ test_data*
 train_data*
 data_prep.ipynb
 keras_tuner_3.ipynb
+all_dataset.pkl
+ML*
+__pycache__
+.ipy*
+163*
